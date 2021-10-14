@@ -799,7 +799,7 @@
   sudo usermod -aG vboxsf $(whoami)
   ```
 
-  ![权限](C:\Users\lenovo\Desktop\chap0x05\img\权限.PNG)
+  ![权限](img/权限.PNG)
 
   
 
